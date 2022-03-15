@@ -1,0 +1,15 @@
+C:\Users\Bogdans Pavlovs\Desktop\VismaHomework\bin\Debug\net6.0\VismaHomework.exe
+C:\Users\Bogdans Pavlovs\Desktop\VismaHomework\bin\Debug\net6.0\VismaHomework.deps.json
+C:\Users\Bogdans Pavlovs\Desktop\VismaHomework\bin\Debug\net6.0\VismaHomework.runtimeconfig.json
+C:\Users\Bogdans Pavlovs\Desktop\VismaHomework\bin\Debug\net6.0\VismaHomework.dll
+C:\Users\Bogdans Pavlovs\Desktop\VismaHomework\bin\Debug\net6.0\VismaHomework.pdb
+C:\Users\Bogdans Pavlovs\Desktop\VismaHomework\obj\Debug\net6.0\VismaHomework.csproj.AssemblyReference.cache
+C:\Users\Bogdans Pavlovs\Desktop\VismaHomework\obj\Debug\net6.0\VismaHomework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bogdans Pavlovs\Desktop\VismaHomework\obj\Debug\net6.0\VismaHomework.AssemblyInfoInputs.cache
+C:\Users\Bogdans Pavlovs\Desktop\VismaHomework\obj\Debug\net6.0\VismaHomework.AssemblyInfo.cs
+C:\Users\Bogdans Pavlovs\Desktop\VismaHomework\obj\Debug\net6.0\VismaHomework.csproj.CoreCompileInputs.cache
+C:\Users\Bogdans Pavlovs\Desktop\VismaHomework\obj\Debug\net6.0\VismaHomework.dll
+C:\Users\Bogdans Pavlovs\Desktop\VismaHomework\obj\Debug\net6.0\refint\VismaHomework.dll
+C:\Users\Bogdans Pavlovs\Desktop\VismaHomework\obj\Debug\net6.0\VismaHomework.pdb
+C:\Users\Bogdans Pavlovs\Desktop\VismaHomework\obj\Debug\net6.0\VismaHomework.genruntimeconfig.cache
+C:\Users\Bogdans Pavlovs\Desktop\VismaHomework\obj\Debug\net6.0\ref\VismaHomework.dll
